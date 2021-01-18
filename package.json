@@ -1,0 +1,12 @@
+{
+  "name": "iceberg-test-yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jacobdfriedmann/iceberg-test-yarn.git",
+  "author": "Jacob Friedmann <jfriedmann@rover.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.21.0",
+    "react": "17.0.0"
+  }
+}
